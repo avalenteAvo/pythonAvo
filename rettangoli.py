@@ -1,4 +1,4 @@
-#esercizio 6 cap 1 'Python e machine learning'
+#esercizio 6 cap 1 'Python e machine learning, McGrawHill'
 
 def rettangoli(riga,colonna):
     for i in range(riga): 
